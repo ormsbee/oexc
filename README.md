@@ -1,3 +1,9 @@
+# What you need to know:
+
+1. This is very hacky at the moment.
+2. You need to pip install [click](https://click.palletsprojects.com/en/7.x/)
+3. You need to install [apsw](https://rogerbinns.github.io/apsw/download.html#i-really-want-to-use-pip), but read that page because it's not just as simple as a pip install (we need to get a statically linked sqlite lib with all the features turned on).
+
 # Open EdX Course File Format
 
 Maybe .oxc?
